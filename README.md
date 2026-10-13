@@ -15,7 +15,7 @@ Tools & Technologies
 - Python
 - Pandas
 - Matplotlib
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 Dataset
 
