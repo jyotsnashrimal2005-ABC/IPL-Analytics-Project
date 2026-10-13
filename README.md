@@ -21,7 +21,8 @@ Dataset
 
 IPL dataset used for analyzing match results, teams, players, and performance statistics.
  
-Key Insights:
+Key Insights:-
+
 Anchor Batter – Suryakumar Yadav (MI):-
 Suryakumar Yadav recorded an impressive batting average of 65.18 and scored 717 runs in 16 innings. His performance makes him a strong candidate for the anchor role, combining consistent run production with the ability to maintain the innings.
 
